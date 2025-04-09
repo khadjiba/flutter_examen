@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19292920115",
+    "project_id": "examen-l3gl",
+    "storage_bucket": "examen-l3gl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19292920115:android:d50d5bc8164f5f92fdc646",
+        "android_client_info": {
+          "package_name": "com.isi.ba_khadjiratou_l3gl_examen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0VmnYOjUmPISdIXC6qoo8e2HhO8suvWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
